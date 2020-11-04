@@ -2,7 +2,7 @@
 
 Tableau visualizaton: https://markwsutton.github.io/Citibike-Analysis-Tableau/
 
-Tableau visualization and analysis of Citibikeshare program. Includes ETL of data in Jupyter Notebook with Python.
+Tableau visualization and analysis of Citibikeshare program in 2020. Includes ETL of data in Jupyter Notebook with Python. Downloaded and merged csv's, outputted as single file. The analysis examines a dataset of over 11,000,000 rides.
 
 Screenshots of Tableau story:
 
